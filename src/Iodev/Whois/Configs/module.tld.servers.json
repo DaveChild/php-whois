@@ -497,7 +497,7 @@
   {"zone": ".hdfcbank", "host": "whois.nic.hdfcbank"},
   {"zone": ".health", "host": "whois.nic.health"},
   {"zone": ".healthcare", "host": "whois.nic.healthcare"},
-  {"zone": ".help", "host": "whois.uniregistry.net"},
+  {"zone": ".help", "host": "whois.nic.help"},
   {"zone": ".helsinki", "host": "whois.nic.helsinki"},
   {"zone": ".here", "host": "whois.nic.google"},
   {"zone": ".hermes", "host": "whois.afilias-srs.net"},
